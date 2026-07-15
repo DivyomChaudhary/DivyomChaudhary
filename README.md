@@ -55,7 +55,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 * **Backend:** Node.js, FastAPI, Connection Pooling
 * **Tools:** Git, Docker, Linux
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
