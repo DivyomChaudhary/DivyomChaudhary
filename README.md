@@ -5,7 +5,7 @@
 # Hi there, I'm Divyom Chaudhary 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Backend;AI+Agents;Future;Innovation;Tech+for+Social+Good" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Computer+Vision" alt="Typing SVG" />
 </p>
 
 ### 🇮🇳 Tech for Social Good | Backend Enthusiast | Performance Optimizer
