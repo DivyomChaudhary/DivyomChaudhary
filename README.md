@@ -14,8 +14,15 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ---
 
+### 🛠️ My Projects
+- * NETRAFLOW
+<img src="https://divyom-projects.s3.us-east-1.amazonaws.com/animated.gif" width="500" alt="Hi">
+
+    
+---
+
 ### 🛠️ What I'm working on
-- * Developing a platform to monitor air quality impact on personnel.
+- * RAG and Generative AI
 
 ---
 
