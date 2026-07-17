@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" width="300" alt="Arise">
+  <img src="https://media1.tenor.com/m/TE5kvNZFxFEAAAAd/bye-kakashi.gif" width="500" alt="Hi">
 </p>
 
 # Hi there, I'm Divyom Chaudhary 👋 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Computer+Vision" alt="Typing SVG" />
 </p>
 
-### 🇮🇳 Tech for Social Good | Backend Enthusiast | Performance Optimizer
+### 🇮🇳 AI for transformation
 
 I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to protect traffic personnel in India during high-AQI periods, ensuring those who keep our streets safe are protected by the latest in computer vision and data science.
 
@@ -24,21 +24,16 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ConfidentialDC&show_icons=true&theme=radical)
 
-#### Alternate account stats
-
-[![GitHub](https://img.shields.io/badge/GitHub-DivyomChaudhary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyomChaudhary)<br>
-![Commits](https://img.shields.io/badge/Commits-68-brightgreen?style=for-the-badge&logo=git)
-![Stars](https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=githubstars&logoColor=white)
-![PRs](https://img.shields.io/badge/PRs-5-orange?style=for-the-badge&logo=github-pull-requests)
-![Contributed](https://img.shields.io/badge/Contributed_To-3-blue?style=for-the-badge&logo=gitpod)
 
 ### 🧰 Tech Stack and stuff
 
 #### Core Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBybTQzZG9id2ZlNXZuOHF2dno0NjNuZXNpazM2N2MydGJ2cnkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media1.tenor.com/m/VXJpMm2Wq6cAAAAd/good-morning.gif" width="60" style="display: inline-block; vertical-align: middle;">
+</div>
+
 
 #### AI & Computer Vision
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -46,14 +41,13 @@ I am a developer driven by the intersection of **technology and public safety**.
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### Infrastructure & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Dashboards-008080?style=for-the-badge&logo=databricks&logoColor=white)
-
-* **Languages:** Python, SQL (PostgreSQL/MySQL), JS
-* **Backend:** Node.js, FastAPI, Connection Pooling
-* **Tools:** Git, Docker, Linux
+<p align="left">
+  <img src="https://media1.tenor.com/m/GO7C6FD0y3YAAAAC/aws.gif" width="150" style="float: left;">
+  <img src="https://media.tenor.com/CFbru9QGwsQAAAAi/pinguim.gif" width="90" style="float: left;">
+  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150" style="float: left;">
+  <img src="https://media1.tenor.com/m/z3Vqx6hmE5QAAAAC/whale-docker.gif" width="90" style="float: left;">
+  <br style="clear: both;">
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
