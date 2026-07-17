@@ -30,8 +30,8 @@ I am a developer driven by the intersection of **technology and public safety**.
 #### Core Development
 
 <div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBybTQzZG9id2ZlNXZuOHF2dno0NjNuZXNpazM2N2MydGJ2cnkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" style="display: inline-block; vertical-align: middle;">
-  <img src="https://media1.tenor.com/m/VXJpMm2Wq6cAAAAd/good-morning.gif" width="60" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBybTQzZG9id2ZlNXZuOHF2dno0NjNuZXNpazM2N2MydGJ2cnkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="90" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media1.tenor.com/m/VXJpMm2Wq6cAAAAd/good-morning.gif" width="150" style="display: inline-block; vertical-align: middle;">
 </div>
 
 
