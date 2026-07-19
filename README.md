@@ -29,7 +29,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 ### 📊 My GitHub Stats
 *Performance isn't just a metric; it's a feature.*
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ConfidentialDC&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
 
 
 ### 🧰 Tech Stack and stuff
@@ -38,7 +38,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 <div>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBybTQzZG9id2ZlNXZuOHF2dno0NjNuZXNpazM2N2MydGJ2cnkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="90" style="display: inline-block; vertical-align: middle;">
-  <img src="https://media1.tenor.com/m/VXJpMm2Wq6cAAAAd/good-morning.gif" width="150" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media1.tenor.com/m/VXJpMm2Wq6cAAAAd/good-morning.gif" width="135" style="display: inline-block; vertical-align: middle;">
 </div>
 
 
@@ -49,9 +49,9 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 #### Infrastructure & Tools
 <p align="left">
-  <img src="https://media1.tenor.com/m/GO7C6FD0y3YAAAAC/aws.gif" width="150" style="float: left;">
+  <img src="https://media1.tenor.com/m/GO7C6FD0y3YAAAAC/aws.gif" width="135" style="float: left;">
   <img src="https://media.tenor.com/CFbru9QGwsQAAAAi/pinguim.gif" width="90" style="float: left;">
-  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150" style="float: left;">
+  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="135" style="float: left;">
   <img src="https://media1.tenor.com/m/z3Vqx6hmE5QAAAAC/whale-docker.gif" width="90" style="float: left;">
   <br style="clear: both;">
 </p>
