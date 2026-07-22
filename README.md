@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Computer+Vision" alt="Typing SVG" />
 </p>
 
-### 🇮🇳 AI for transformation
+### 🇮🇳 AI for Transformation
 
 I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to protect traffic personnel in India during high-AQI periods, ensuring those who keep our streets safe are protected by the latest in computer vision and data science.
 
