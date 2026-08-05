@@ -31,8 +31,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 ### 📊 My GitHub Stats
 *Performance isn't just a metric; it's a feature.*
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyomChaudhary&theme=github_dark" />
-
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
 
 
 ### 🧰 Tech Stack and stuff
