@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Computer+Vision" alt="Typing SVG" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DivyomChaudhary&theme=dark)](https://git.io/streak-stats)
-
 ### 🇮🇳 Keeping up with the #Grind
 
 I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to protect traffic personnel in India during high-AQI periods, ensuring those who keep our streets safe are protected by the latest in computer vision and data science.
@@ -32,6 +30,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 *Performance isn't just a metric; it's a feature.*
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DivyomChaudhary&theme=github-dark)
 
 
 ### 🧰 Tech Stack and stuff
