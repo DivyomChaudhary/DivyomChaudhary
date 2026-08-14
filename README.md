@@ -14,7 +14,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ---
 
-### 🛠️ My Projects
+### 🛠️ Projects
 - * NETRAFLOW ([Check it Out!](http://98.93.77.85/))
 <img src="https://divyom-projects.s3.us-east-1.amazonaws.com/animated.gif" width="500" alt="Hi">
 
@@ -26,11 +26,15 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 *Performance isn't just a metric; it's a feature.*
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DivyomChaudhary&theme=github-dark)
+
+---
+
+## 📈 Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomChaudhary&theme=github-dark" width="100%">
 
 
 ### 🧰 Tech Stack and stuff
