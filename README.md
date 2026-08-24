@@ -10,7 +10,7 @@
 
 ### 🇮🇳 Keeping up with the #Grind
 
-I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to protect traffic personnel in India during high-AQI periods, ensuring those who keep our streets safe are protected by the latest in computer vision and data science.
+I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to ensure society is protected by the latest in Computer Vision, Gen AI and data science.
 
 ---
 
