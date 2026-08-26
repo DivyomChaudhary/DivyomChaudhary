@@ -5,7 +5,7 @@
 # Hi there, I'm Divyom Chaudhary 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Generative+AI+Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Generative+AI;Cloud+Architecture;" alt="Typing SVG" />
 </p>
 
 ### 🇮🇳 Keeping up with the #Grind
@@ -15,7 +15,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 ---
 
 ### 🛠️ Projects
-- * NETRAFLOW ([Check it Out!](http://98.93.77.85/))
+- * NETRAFLOW ([Check it Out!](http://44.198.190.161/))
 <img src="https://divyom-projects.s3.us-east-1.amazonaws.com/animated.gif" width="500" alt="Hi">
 
     
