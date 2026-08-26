@@ -64,11 +64,11 @@ I am a developer driven by the intersection of **technology and public safety**.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 ### 📫 Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Let's Connect">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
 
 <p align="right">
-<!-- - **Karma:** <td-k></td-k> (<td-kl></td-kl>)
-- **Total Completed:** <td-tc></td-tc> -->
   <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=2026+PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
