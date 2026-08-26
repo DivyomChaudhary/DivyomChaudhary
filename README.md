@@ -5,7 +5,7 @@
 # Hi there, I'm Divyom Chaudhary 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=888&color=45A1FF&width=435&lines=Innovation;AI+Agents;Generative+AI;Cloud+Architecture;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=555&color=45A1FF&width=435&lines=Innovation;AI+Agents;Generative+AI;Cloud+Architecture;" alt="Typing SVG" />
 </p>
 
 ### 🇮🇳 Keeping up with the #Grind
