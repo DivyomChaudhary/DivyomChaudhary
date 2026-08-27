@@ -16,7 +16,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 ### 🛠️ Projects
 - * NETRAFLOW ([Check it Out!](http://44.198.190.161/))
-<img src="https://divyom-projects.s3.us-east-1.amazonaws.com/animated.gif" width="500" alt="Hi">
+<img src="https://divyom-github-assets.s3.ap-south-1.amazonaws.com/animated.gif" width="500" alt="Hi">
 
     
 ---
