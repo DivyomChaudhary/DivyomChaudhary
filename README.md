@@ -34,7 +34,7 @@ I am a developer driven by the intersection of **technology and public safety**.
 ---
 
 ## 📈 Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyomChaudhary&theme=github-dark" width="100%">
+<img src="https://gh-activity-graph-ruddy.vercel.app/graph?username=DivyomChaudhary&theme=github-dark" width="100%">
 
 
 ### 🧰 Tech Stack and stuff
