@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/TE5kvNZFxFEAAAAd/bye-kakashi.gif" width="500" alt="Hi">
 </p>
 
-# Hi there, I'm Divyom Chaudhary 👋 
+# Hi there, [I'm Divyom Chaudhary](https://divyom.me/) 👋 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=222&color=45A1FF&width=435&lines=Innovation;AI+Agents;Generative+AI;Cloud+Architecture;" alt="Typing SVG" />
@@ -63,10 +63,38 @@ I am a developer driven by the intersection of **technology and public safety**.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
-### 📫 Let's Connect
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Let's Connect">
+<h2 align="center">📫 Let's Connect</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyom-chaudhary)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Let's Connect">
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/DivyomChaudhary" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://divyom.me" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" title="divyom.me" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/divyom-chaudhary" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:divyomchaudhary@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ConfidentialDC&color=blueviolet&style=flat-square&label=2026+PROFILE+VIEWS" alt="Profile Views" />
