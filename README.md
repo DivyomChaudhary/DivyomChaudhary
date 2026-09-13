@@ -5,24 +5,24 @@
 # Hi there, [I'm Divyom Chaudhary](https://divyom.me/) 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=222&color=45A1FF&width=435&lines=Innovation;AI+Agents;Generative+AI;Cloud+Architecture;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=222&color=45A1FF&width=435&lines=Data+Science;Cloud+Infrastructure;AI+Agents;" alt="Typing SVG" />
 </p>
 
 ### 🇮🇳 Keeping up with the #Grind
 
-I am a developer driven by the intersection of **technology and public safety**. My current focus is building solutions to ensure society is protected by the latest in Computer Vision, Gen AI and data science.
+I am a data scientist driven by the intersection of **technology and results**. My current focus is building data science solutions to bridge the gap between data and charts.
 
 ---
 
 ### 🛠️ Projects
-- * NETRAFLOW ([Check it Out!](http://65.2.181.56/))
+- * NETRAFLOW - Traffic Analysis with Data Science ([Check it Out!](http://65.2.181.56/))
 <img src="https://divyom-github-assets.s3.ap-south-1.amazonaws.com/animated.gif" width="500" alt="Hi">
 
     
 ---
 
 ### 🛠️ What I'm working on
-- * RAG and Generative AI
+- * Integrating Chatbots into Data Science
 
 ---
 
