@@ -30,6 +30,7 @@ I am a data scientist driven by the intersection of **technology and results**. 
 *Performance isn't just a metric; it's a feature.*
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DivyomChaudhary&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-mu-dun.vercel.app/?user=DivyomChaudhary&theme=aura&border_radius=3.9&date_format=j%20M%5B%20Y%5D&card_width=300&background=35%2CD4E8FF%2C0082C8&ring=EB665A&fire=EB8556&currStreakNum=EB100B&currStreakLabel=EB665A&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 
