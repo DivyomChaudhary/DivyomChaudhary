@@ -28,7 +28,7 @@ I am a data scientist driven by the intersection of **technology and results**. 
 
 ### 📊 GitHub Stats
 
-![Committed Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyomChaudhary&theme=github_dark&animation=load&exclude=html%2Ccss%2Cphp%2Cejs)
+![Committed Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyomChaudhary&theme=algolia&animation=load&exclude=html%2Ccss%2Cphp%2Cejs)
 [![GitHub Streak](https://github-readme-streak-stats-mu-dun.vercel.app/?user=DivyomChaudhary&theme=aura&border_radius=3.9&date_format=j%20M%5B%20Y%5D&card_width=300&background=35%2CD4E8FF%2C0082C8&ring=EB665A&fire=EB8556&currStreakNum=EB100B&currStreakLabel=EB665A&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
