@@ -16,7 +16,7 @@ I am a data scientist driven by the intersection of **technology and results**. 
 
 ### 🛠️ Projects
 - * NETRAFLOW - Traffic Analysis with Data Science ([Check it Out!](http://65.2.181.56/))
-<img src="https://divyom-github-assets.s3.ap-south-1.amazonaws.com/animated.gif" width="500" alt="Hi">
+<img src="https://divyom-github-assets.s3.ap-south-1.amazonaws.com/animated.gif" width="450" alt="Hi">
 
     
 ---
