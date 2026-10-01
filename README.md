@@ -14,15 +14,17 @@ I am a data scientist driven by the intersection of **technology and results**. 
 
 ---
 
-### 🛠️ Projects
-- * NETRAFLOW - Traffic Analysis with Data Science ([Check it Out!](https://netraflow.divyomchaudhary.tech))
+### 🛠️ Recent Projects
+- * NETRAFLOW - Traffic Analysis with Dashboard and SQL AI agent ([Check it Out!](https://netraflow.divyomchaudhary.tech))
 <img src="https://divyom-github-assets.s3.ap-south-1.amazonaws.com/animated.gif" width="450" alt="Hi">
 
+- * International student custom analysis: who stays? [International Student analysis repo](https://github.com/DivyomChaudhary/mental_health_analysis_against_social_competence)
     
 ---
 
 ### 🛠️ What I'm working on
-- * Integrating Chatbots into Data Science
+- Integrating Chatbots into Data Science Projects
+- Data Structures and Algorithms: [DSA repo](https://github.com/DivyomChaudhary/NeetCode-practice)
 
 ---
 
